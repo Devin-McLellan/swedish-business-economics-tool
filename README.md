@@ -9,13 +9,18 @@ The program uses an external CSV file containing up-to-date tax information and 
 
 ---
 
-## 📂 Project Structure
-'
-├── mitt_program_main.py        # Main entry point of the application
-├── mitt_program_funktioner.py  # Helper functions and logic
-├── skattetabell_new.csv        # Tax table data for all Swedish municipalities
-└── README.md
-'
+## Project Structure
+
+swedish-tax-table-lookup/
+├── src/
+│   ├── main.py                # Program entry point
+│   └── functions.py           # Core logic and helper functions
+│
+├── data/
+│   └── skattetabell_new.csv   # Tax table data for all Swedish municipalities
+│
+├── README.md
+└── requirements.txt           # (Optional) External dependencies
 ---
 
 ## How it Works
