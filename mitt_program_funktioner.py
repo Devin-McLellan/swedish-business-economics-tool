@@ -9,7 +9,7 @@ Innehåller alla hjälpfunktioner för ekonomiprogrammet:
 - Lönberäkningar
 - Prognoser och visualiseringar
 
-Författare: [Ditt namn]
+Författare: [Kevin McLellan]
 Version: 1.0
 """
 
