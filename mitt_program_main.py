@@ -2,7 +2,7 @@
 Ekonomiprogram - Huvudfil
 Ett program för ekonomiska beräkningar baserat på svenska skattesatser.
 
-Författare: [Ditt namn]
+Författare: [Kevin McLellan]
 Datum: 2026-01-13
 """
 
